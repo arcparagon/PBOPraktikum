@@ -2,47 +2,72 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+(PEMROGRAMAN BERBASIS OBJEK)
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+( mengetahui bahwa kode extend itu untuk mengkoneksikan dari class pertama dengan class kedua agar terhubung )
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![contoh screenshot](img/percobaan1 Hasil.PNG)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+PBOpraktikum/docs/1_Pengantar_Konsep_PBO/img/Percobaan2 Hasil.png
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no1.java
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no2.java
 
 ## Pertanyaan
+1.Kelas — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.
+  Objek - membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas dan struktur dalam sebuah program komputer berorientasi objek.
+  Abstraksi - Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya
+  Enkapsulasi - Memastikan pengguna sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak
+  Polimorfisme melalui pengiriman pesan. Tidak bergantung kepada pemanggilan subrutin
+2.Class merupakan kumpulan dari suatu fungsi-fungsi yang dibuat untuk suatu tujuan tertentu
+  Sedangkan Object adalah pemanfaatan dari class yang siap untuk digunakan.
+3. Meningkatkan Produktivitas
+   Kecepatan Pengembangan
+   Kemudahan Pemeliharaan
+   Adanaya Konstitensi
+   Meningkatkan Kualitas Perangkat Lunak
+4.-setMerek
+  -gantiGear
+  -tambahKecepatan
+  -rem
+  -cetakStatus
+5.private String merek, colour; **disini kita tambah string colour**
+    private int kecepatan;
+    private int gear;
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+    public void setMerek(String newValue) {
+        merek = newValue;
+    }
+    
+    public void setColour(String newValue) { **dan disini untuk menambah colour**
+        colour = newValue;
+    }
+ 6.SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear,
+memiliki kecepatan, dapat menambah kecepatan, dapat mengerem, pindah gigi, dsb) namun ada
+fitur tambahan yaitu tipe suspensi. Maka kita tidak perlu membuat class SepedaGunung dari nol, kita extend atau wariskan saja dari class pertama
+
+tugas 6
+D:\Semester 2\Program Berbasis Object\PraktikumBerbasisObject\PraktikumPBO\docs\1_Pengantar_Konsep_PBO\tugas
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/Weapons.java
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/WeaponsDemo.java
+PBOpraktikum/src/1_Pengantar_Konsep_PBO/WeaponsVip.java
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Kesimpulan
 
