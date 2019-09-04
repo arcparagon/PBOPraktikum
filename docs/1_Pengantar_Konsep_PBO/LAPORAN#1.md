@@ -12,7 +12,6 @@
 
 ### Percobaan 1
 
-![contoh screenshot](img/percobaan1 Hasil.PNG)
 
 PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
 PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
@@ -71,7 +70,7 @@ PBOpraktikum/src/1_Pengantar_Konsep_PBO/WeaponsVip.java
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+ketika memakai extend dari class pertama maka tidak perlu membuat class baru dari nol lagi
 
 ## Pernyataan Diri
 
