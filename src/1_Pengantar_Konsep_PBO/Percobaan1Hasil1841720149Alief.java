@@ -9,31 +9,37 @@ package SepedaDemo;
  *
  * @author alief
  */
-public class Sepeda {
+public class Sepeda1841720149Alief {
 
-    private String merek;
+    private String merek, colour;
     private int kecepatan;
     private int gear;
 
-    public void setMerek(String newValue) {
+    public void setMerekAlief(String newValue) {
         merek = newValue;
     }
+    
+    public void setColourAlief(String newValue) {
+        colour = newValue;
+    }
 
-    public void gantiGear(int newValue) {
+    public void gantiGearAlief(int newValue) {
         gear = newValue;
     }
 
-    public void tambahKecepatan(int increment) {
+    public void tambahKecepatanAlief(int increment) {
         kecepatan = kecepatan + increment;
     }
 
-    public void rem(int decrement) {
+    public void remAlief(int decrement) {
         kecepatan = kecepatan - decrement;
     }
+    
 
-    public void cetakStatus() {
+    public void cetakStatusAlief() {
         System.out.println("Merek: " + merek);
         System.out.println("Kecepatan: " + kecepatan);
         System.out.println("Gear: " + gear);
+        System.out.println("Warna: " + colour);
     }
 }

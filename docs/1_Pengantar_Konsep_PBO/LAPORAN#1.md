@@ -15,17 +15,26 @@ mengetahui bahwa kode extend itu untuk mengkoneksikan dari class pertama dengan 
 
 ![Percobaan 1 no 1](img/percobaan1no1.png)
 
-Link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+![Percobaan 1 no 2](img/percobaan1no2.png)
 
-https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
-https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
+![Percobaan 1 hasil](img/percobaan1hasil.png)
 
+Link kode Percobaan 1 no 1 : [ Kode No 1](../../src/1_Pengantar_Konsep_PBO/Percobaan1No11841720149Alief.java)
+
+Link kode Percobaan 1 no 2 : [ Kode No 2](../../src/1_Pengantar_Konsep_PBO/Percobaan1No212841720149Alief.java)
+
+Link kode Hasil Percobaan 1 : [ Hasil Percobaan 1](../../src/1_Pengantar_Konsep_PBO/Percobaan1Hasil1841720149Alief.java)
 ### Percobaan 2
 
-https://github.com/arcparagon/PBOpraktikum/docs/1_Pengantar_Konsep_PBO/img/Percobaan2 Hasil.png
+![Percobaan 2 no 1](img/percobaan2no1.png)
 
-https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no1.java
-https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no2.java
+![Percobaan 2 no 2](img/percobaan2no2.png)
+
+![Percobaan 2 hasil](img/percobaan2hasil.png)
+
+Link kode Percobaan 1 no 1 : [ Kode No 1](../../src/1_Pengantar_Konsep_PBO/Percobaan2No11841720149Alief.java)
+
+Link kode Percobaan 1 no 2 : [ Kode No 2](../../src/1_Pengantar_Konsep_PBO/Percobaan2No212841720149Alief.java)
 
 ## Pertanyaan
 1.Kelas — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.
@@ -65,11 +74,11 @@ D:\Semester 2\Program Berbasis Object\PraktikumBerbasisObject\PraktikumPBO\docs\
 
 ## Tugas
 
+Link kode Percobaan 1 no 1 : [ Kode No 1](../../src/1_Pengantar_Konsep_PBO/Weapons.java)
 
+Link kode Percobaan 1 no 2 : [ Kode No 2](../../src/1_Pengantar_Konsep_PBO/WeaponsDemo.java)
 
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/Weapons.java
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/WeaponsDemo.java
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/WeaponsVip.java
+Link kode Hasil Percobaan 1 : [ Hasil Percobaan 1](../../src/1_Pengantar_Konsep_PBO/WeaponsVip.java)
 
 
 ## Kesimpulan
