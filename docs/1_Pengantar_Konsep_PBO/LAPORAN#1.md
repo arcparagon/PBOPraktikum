@@ -2,16 +2,20 @@
 
 ## Kompetensi
 
-(PEMROGRAMAN BERBASIS OBJEK)
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
-( mengetahui bahwa kode extend itu untuk mengkoneksikan dari class pertama dengan class kedua agar terhubung )
+mengetahui bahwa kode extend itu untuk mengkoneksikan dari class pertama dengan class kedua agar terhubung
 
 ## Percobaan
 
 ### Percobaan 1
 
+![Percobaan 1 no 1](img/percobaan1no1.png)
+
+Link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
 https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
