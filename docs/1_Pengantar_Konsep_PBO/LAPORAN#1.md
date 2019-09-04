@@ -13,15 +13,15 @@
 ### Percobaan 1
 
 
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
+https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no1.java
+https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan1 no2.java
 
 ### Percobaan 2
 
-PBOpraktikum/docs/1_Pengantar_Konsep_PBO/img/Percobaan2 Hasil.png
+https://github.com/arcparagon/PBOpraktikum/docs/1_Pengantar_Konsep_PBO/img/Percobaan2 Hasil.png
 
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no1.java
-PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no2.java
+https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no1.java
+https://github.com/arcparagon/PBOpraktikum/src/1_Pengantar_Konsep_PBO/Percobaan2 no2.java
 
 ## Pertanyaan
 1.Kelas — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.
@@ -80,4 +80,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+ALIEF AL GAFFARI
