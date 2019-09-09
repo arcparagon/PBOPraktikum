@@ -1,3 +1,4 @@
+//ALIEF//
 package PBOPraktikum2;
 public class Barang1841720149AliefAG {
     public String namaBrg;

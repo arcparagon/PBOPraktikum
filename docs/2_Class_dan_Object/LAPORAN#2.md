@@ -70,7 +70,7 @@ Class dan Object merupakan gabungan dari suatu program. Ibaratnya class itu sepe
 3. Screenshot:
 ![screenshot](img2/Tugas-Nomor3.PNG)
 [link ke kode program](../../src/2_Class_dan_Object/Tugas2/Lingkaran1841720149Alief.java)
-[link ke kode main program](../../src/2_Class_dan_Object/Tugas2/LingkaranMain1841720149Alief.java)
+[link ke kode main program](../../src/2_Class_dan_Object/Tugas2/LingkaranMain184
 
 4. Screenshot:
 ![screenshot](img2/Tugas-Nomor4.PNG)
