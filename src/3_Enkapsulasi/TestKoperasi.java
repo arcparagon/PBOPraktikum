@@ -1,4 +1,6 @@
-
+/*
+Copyright Alief Al Gaffari
+ */
 package Jobsheet3;
 
 import java.util.Scanner;

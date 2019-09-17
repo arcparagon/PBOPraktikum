@@ -1,5 +1,5 @@
 # Laporan Praktikum #2 - Class dan Object
-
+Copyright Alief Al Gaffari
 ## Kompetensi
 
 Memahami deskripsi dari class dan object serta bagaimana cara mengimplementasikannya.
