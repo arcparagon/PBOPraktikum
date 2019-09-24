@@ -40,7 +40,7 @@ Laptop l = new Laptop("Thinkpad", new Processor("Intel i5", 3));
 Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
 
     Jawaban : 
-    ![screenshot](img4/percobaan1no6.PNG)
+    ![screenshot](img4/percobaan1no6.png)
     P adalah objek dari processor. Iya, variabel new yang lama tidak ditampilkan, alhasil variable new yang baru lah yang hanya dapat ditampilkan.
 
 ### Pertanyaan Percobaan 2
@@ -68,7 +68,7 @@ System.out.println(p.getMobil().getMerk());
 Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main tersebut?
 
     Jawaban :
-    ![screenshot](img4/percobaan2no6.PNG)
+    ![screenshot](img4/percobaan2no6.png)
     Menampilkan merk mobil pada main class tersebut.
     
 
@@ -82,7 +82,7 @@ Pegawai masinis = new Pegawai("1234", "Spongebob Squarepants");
 KeretaApi keretaApi = new KeretaApi("Gaya Baru", "Bisnis", masinis); 
 System.out.println(keretaApi.info());
 
-    Jawaban :  ![screenshot](img4/percobaan3no2.PNG)
+    Jawaban :  ![screenshot](img4/percobaan3no2.png)
 
     Ini adalah kode main programnya : [link main kode program](../../src/4_Relasi_Class/MainPercobaan3.java)
 
@@ -92,7 +92,7 @@ System.out.println(keretaApi.info());
 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan !
 
-    Jawaban : ![screenshot](img4/percobaan3no4.PNG)
+    Jawaban : ![screenshot](img4/percobaan3no4.png)
 
 
 ### Pertanyaan Percobaan 4
@@ -116,12 +116,12 @@ info += "Penumpang: " + penumpang.info() + "\n";
 4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ?
 
     Jawaban : 
-    ![screenshot](img4/percobaan4no4.PNG)
+    ![screenshot](img4/percobaan4no4.png)
     Error, karena hanya bisa menumpang 1 orang saja.
  
 5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain! 
 
-    Jawaban : ![screenshot](img4/percobaan4no5.PNG)
+    Jawaban : ![screenshot](img4/percobaan4no5.png)
 
 ## Tugas
 
@@ -131,34 +131,34 @@ Berikut adalah diagram classnya : ![screenshot](img4/flowchatdoesntexist.png)
 
 Link menuju diagram classnya ada disini : [diagram class](img4/flowchatdoesntexist)
 
-1. Ini adalah detail mobilnya : ![screenshot](img4/mainmobildetail.PNG)
+1. Ini adalah detail mobilnya : ![screenshot](img4/mainmobildetail.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/MobilDetail1841720149Alief.java)
 
-2. Ini adalah komponen handling mobilnya : ![screenshot](img4/handlingmobil.PNG)
+2. Ini adalah komponen handling mobilnya : ![screenshot](img4/handlingmobil.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/HandlingMobil1841720149Alief.java)
 
 3. Ini adalah komponen mesin mobilnya :
-![screenshot](img4/mesinmobil.PNG)
+![screenshot](img4/mesinmobil.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/MesinMobil1841720149Alief.java)
 
-4. Ini adalah merk mobilnya :![screenshot](img4/merkmobil.PNG)
+4. Ini adalah merk mobilnya :![screenshot](img4/merkmobil.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/MerkMobil1841720149Alief.java)
 
 5. Ini adalah detail kecepatan mobilnya : 
-![screenshot](img4/velocitymobil.PNG)
+![screenshot](img4/velocitymobil.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/VelocityMobil1841720149Alief.java)
 
 6. Ini adalah harga mobilnya :
-![screenshot](img4/hargamobil.PNG)
+![screenshot](img4/hargamobil.png)
 
 Ini adalah kode programnya : [link kode program](../../src/4_Relasi_Class/HargaMobil1841720149Alief.java)
 
-7. Ini adalah main kode dari seluruh class yang telah dibuat : ![screenshot](img4/ScreenShot-Tugas-MainTugas1841720149Alief.PNG)
+7. Ini adalah main kode dari seluruh class yang telah dibuat : ![screenshot](img4/ScreenShot-Tugas-MainTugas1841720149Alief.png)
 
 Ini adalah link menuju main kode programnya : [link kode program](../../src/4_Relasi_Class/MainTugas1841720149Alief.java)
 
