@@ -23,7 +23,7 @@ Menuliskan kembali rumusan (method) dari suatu class yang nantinya akan digabung
 
 ### Praktikum Percobaan 1
 
-![screenshot](img7/Praktikum/Praktikum1.PNG)
+![screenshot](img7/Praktikum/Praktikum1.png)
 
 **Kode karyawan** : [Karyawan.java](../../src/7_Overriding_dan_Overloading/Praktikum/Karyawan1841720149Alief.java)
 
@@ -34,7 +34,7 @@ Menuliskan kembali rumusan (method) dari suatu class yang nantinya akan digabung
 **Main Kode** : [Main.java](../../src/7_Overriding_dan_Overloading/Praktikum1/Utama1841720149Alief.java)
 
 ## Latihan
-![screenshot](img7/Latihan/latihan1.PNG)
+![screenshot](img7/Latihan/latihan1.png)
 
 **Kode Perkalian** : [Perkalian.java](../../src/7_Overriding_dan_Overloading/Latihan/Perkalianku1841720149Alief.java)
 
@@ -46,7 +46,7 @@ Jawaban : Ada pada void perkalian yang berparameter integer a, b serta void perk
 
 Jawaban : Ada 5
 
-![screenshot](img7/Latihan/latihan2.PNG)
+![screenshot](img7/Latihan/latihan2.png)
 
 **Kode Perkalian part 2** : [perkalian2.java](../../src/7_Overriding_dan_Overloading/Latihan/PerkaliankuPart21841720149Alief.java)
 
@@ -58,7 +58,7 @@ Jawaban : Ada pada void perkalian yang berparameter integer a, b serta void perk
 
 Jawaban : Ada 4
 
-![screenshot](img7/Latihan/latihan3.PNG)
+![screenshot](img7/Latihan/latihan3.png)
 
 **Kode Ikan** : [ikan.java](../../src/7_Overriding_dan_Overloading/Latihan/Ikan1841720149Alief.java)
 
@@ -77,10 +77,10 @@ Jawaban : Tidak ada. Karena parameter tersebut kosong atau tidak ada.
 
 ## Tugas
 
-1.![screenshot](img7/Tugas/tugas1.PNG)
+1.![screenshot](img7/Tugas/tugas1.png)
 **Kode Segitiga dan Main** : [segitiga.java](../../src/7_Overriding_dan_Overloading/Tugas/Segitiga1841720149Alief.java)
 
-2.![screenshot](img7/Tugas/tugas2.PNG)
+2.![screenshot](img7/Tugas/tugas2.png)
 **Kode Dosen** : [dosen.java](../../src/7_Overriding_dan_Overloading/Tugas/Dosen1841720148Alief.java)
 
 **Kode Mahasiswa** : [mahasiswa.java](../../src/7_Overriding_dan_Overloading/Tugas/Mahasiswa1841720149Alief.java)
