@@ -44,4 +44,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-ALIEF AL GAFFARI
+*ALIEF AL GAFFARI*
