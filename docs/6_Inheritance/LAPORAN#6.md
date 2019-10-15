@@ -2,49 +2,14 @@
 
 ## Kompetensi
 
-1. Memahami
-konsep
-dasar
-inheritance
-atau
+1. Memahami konsep dasar inheritance atau
 pewarisan.
-2. Mampu
-membuat
-suatu
-subclass
-dari
-suatu
-superclass
+2. Mampu membuat suatu subclass dari suatu superclass
 tertentu.
-3. Mampu
-mengimplementasikan
-konsep
-single
-dan
-multilevel
-inheritance.
-4. Mampu
-membuat
-objek
-dari
-suatu
-subclass
-dan
-melakukan
-pengaksesan
-terhadap
-atribut
-dan
-method
-baik
-yang
-dimiliki
-sendiri
-atau
-turunan
-dari
-superclass
-nya.
+3. Mampu mengimplementasikan konsep single dan
+multilevel inheritance.
+4. Mampu membuat objek dari suatu subclass dan melakukan pengaksesan terhadap atribut dan
+method baik yang dimiliki sendiri atau turunan dari superclass nya.
 
 ## Ringkasan Materi
 Mewariskan kepada keturunan dari suatu class atau subclass yang awalnya umum menjadi lebih spesifik atau sifatnya reusable. Konsepnya sama seperti kita mendaur ulang bahan plastik maupun kertas.
@@ -55,13 +20,13 @@ Mewariskan kepada keturunan dari suatu class atau subclass yang awalnya umum men
 ### Pertanyaan Percobaan 1
 1. Pada percobaan 1 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error!
 
-    Jawaban : ![screenshot](img6/Percobaan-1/1.PNG)
+    Jawaban : ![screenshot](img6/percobaan1/percobaan1.png)
     
-    Ini adalah kode ClassA nya : [link kode program](../../src/6_Inheritance/Percobaan-1/ClassA1841720065Rifqie.java)
+    **Kode class A** : [classA.java](../../src/6_Inheritance/percobaan1/ClassA1841720149Alief.java)
 
-    Ini adalah kode ClassB nya : [link kode program](../../src/6_Inheritance/Percobaan-1/ClassB1841720065Rifqie.java)
+    **Kode class B** : [classB.java](../../src/6_Inheritance/percobaan1/ClassB1841720149Alief.java)
 
-    Ini adalah kode main nya : [link kode program](../../src/6_Inheritance/Percobaan-1/InhiretanceSatu1841720065Rifqie.java)
+    **Kode main class** : [inheritensatu.java](../../src/6_Inheritance/percobaan1/InhiretanceSatu1841720149Alief.java)
 
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error!
 
@@ -70,13 +35,13 @@ Mewariskan kepada keturunan dari suatu class atau subclass yang awalnya umum men
 ### Pertanyaan Percobaan 2
 1. Pada percobaan 2 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error!
 
-    Jawaban: ![screenshot](img6/Percobaan-2/1.PNG)
+    Jawaban: ![screenshot](img6/percobaan2/percobaan2.png)
 
-    Ini adalah kode ClassA nya : [link kode program](../../src/6_Inheritance/Percobaan-2/ClassA1841720065Rifqie.java)
+    **Kode class A** : [classA.java](../../src/6_Inheritance/percobaan2/ClassA1841720149Alief.java)
 
-    Ini adalah kode ClassB nya : [link kode program](../../src/6_Inheritance/Percobaan-2/ClassB1841720065Rifqie.java)
+    **Kode class B** : [classB.java](../../src/6_Inheritance/percobaan2/ClassB1841720149Alief.java)
 
-    Ini adalah kode main nya : [link kode program](../../src/6_Inheritance/Percobaan-2/InhiretanceDua1841720065Rifqie.java)
+    **Kode class main** : [inheritencedua.java](../../src/6_Inheritance/percobaan2/InhiretanceDua1841720149Alief.java)
 
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error! 
 
@@ -107,28 +72,16 @@ Super class diwarisi sebagai kelas induk, kalau Subclass adalah kelas turunan at
 Tambahkan kata super() di baris Pertama dalam konstruktor defaultnya. Coba jalankan kembali class Percobaan4 dan terlihat tidak ada perbedaan dari hasil outputnya!
 
 Jawaban : 
-![screenshot](img6/Percobaan-4/2.PNG)
-Output yang dihasilkan tetap sama.
-
-3.Ubahlah isi konstruktor default ClassC seperti
- berikut:
-
-Ketika mengubah posisi super() dibaris kedua dalam konstruktor defaultnya dan terlihat ada error. Kemudian kembalikan super() kebaris pertama seperti sebelumnya, maka errornya akan hilang. Perhatikan hasil keluaran ketika class Percobaan4 dijalankan. Kenapa bisa tampil output seperti berikut pada saat instansiasi objek test dari class ClassC?
+![screenshot](img6/percobaan4/percobaan4.png)
+Output yang dihasilkan **Kode class A** constclassA.javaassC **Kode class B** septhA poclassB.javaris kedua dalam konstruktor defaultnya dan terlihat ada error. Kemudian kembalikan super() kebaris149Aliefseperti sebelumnya, maka errornya akan hilang. Perhatikan hasil kelua **Kode class main** an4 inheritencedua.javaa bisa tampil output seperti berikut pada saat instansiasi objek test dari class ClassC?
 Jelaskan bagaimana urutan proses jalannya konstruktor saat objek test dibuat!
 
 Jawaban : 
-![screenshot](img6/Percobaan-4/2.PNG)
-Turunan dari konstruktor C ke konstruktor B dari Konstruktor B ke Konstruktor A. 
-
-4.Apakah fungsi super() pada potongan program dibawah ini di ClassC!
-
-Jawaban : Keyword ini digunakan untuk memanggil konstruktor dari superclass atau menjadi variabel yang mengacu pada superclass. 
-
-### Pertanyaan Percobaan 5
-1. Sebutkan class mana yang termasuk super class dan sub class dari percobaan 1 diatas!
+![screenshot](img6/percobaan4/percobaan4.png)
+Turunan dari konstruktor C ke konstruktor B dari Konstruktor B ke Konst**Kode class A**i suclassA.javaan program d**Kode class B**ban classB.javaunakan untuk memanggil konstruktor dari superclass atau menjadi variabel yang mengacu pa149Alieflas**Kode class main**obaainheritencedua.javalass mana yang termasuk super class dan sub class dari percobaan 1 diatas!
 
     Jawaban: Super Class = Karyawan
-Sub Class = manager, Staff
+Sub Class = manager, Staff 
 
 2. Kata kunci apakah yang digunakan untuk menurunkan suatu class ke class yang lain?
 
@@ -177,19 +130,20 @@ Sub Class = manager, Staff
 1.	Buatlah sebuah program dengan konsep pewarisan seperti pada class diagram berikut ini. Kemudian buatlah instansiasi objek untuk menampilkan data pada class Mac, Windows dan Pc!
 
 
-    Jawaban : ![screenshot](img6/Tugas/1.PNG)
+    Jawaban : ![screenshot](img6/tugas/tugas.png)
 
- Ini adalah kode Komputer nya : [link kode program](../../src/6_Inheritance/Tugas/Komputer1841720065Rifqie.java)
 
- Ini adalah kode Laptop nya : [link kode program](../../src/6_Inheritance/Tugas/Laptop1841720065Rifqie.java)
+**Kode class Inheritence main** : [inheritencemain.java](../../src/6_Inheritance/tugas/inheritanceTugas.java)
 
- Ini adalah kode Mac nya : [link kode program](../../src/6_Inheritance/Tugas/Mac1841720065Rifqie.java)
+**Kode class Komputer** : [komputer.java](../../src/6_Inheritance/tugas/Komputer1841720149Alief.java)
 
- Ini adalah kode PC nya : [link kode program](../../src/6_Inheritance/Tugas/Pc1841720065Rifqie.java)
+**Kode class Laptop** : [laptop.java](../../src/6_Inheritance/tugas/Laptop1841720149Alief.java)
 
- Ini adalah kode Windows nya : [link kode program](../../src/6_Inheritance/Tugas/Windows1841720065Rifqie.java)
+**Kode class Mac** : [mac.java](../../src/6_Inheritance/tugas/Mac1841720149Alief.java)
 
- Ini adalah kode main nya : [link kode main program](../../src/6_Inheritance/Tugas/InheritanceTugas.java)
+**Kode class Pc** : [pc.java](../../src/6_Inheritance/tugas/Pc1841720149Alief.java)
+
+**Kode class Windows** : [Windows.java](../../src/6_Inheritance/tugas/Windows1841720149Alief.java)
 
 ## Kesimpulan
 
@@ -203,4 +157,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(Rifqie Muhammad)***
+***(Alief Al Gaffari)***
