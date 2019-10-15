@@ -23,7 +23,7 @@ Menuliskan kembali rumusan (method) dari suatu class yang nantinya akan digabung
 
 ### Praktikum Percobaan 1
 
-![screenshot](img7/Praktikum/Praktikum1.png)
+![screenshot](img7/Praktikum/praktikum1.png)
 
 **Kode karyawan** : [Karyawan.java](../../src/7_Overriding_dan_Overloading/Praktikum/Karyawan1841720149Alief.java)
 
