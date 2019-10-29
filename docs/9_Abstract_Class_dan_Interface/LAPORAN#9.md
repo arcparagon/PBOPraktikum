@@ -39,14 +39,14 @@ Jawaban :
 d.	Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini
 
 Jawaban : 
-![screenshot](img9/Percobaan2/percobaan2.PNG)
+![screenshot](img9/Percobaan2/percobaan2.png)
 **Rektor code** : 
 [Rektor.java](../../src/9_Abstract_Class_dan_Interface/cobainterface/Rektor1841720149Alief.java)
 
 ### Percobaan Praktikum 3
 Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude.
  
-Jawaban : ![screenshot](img9/Percobaan3/percobaan3.PNG)
+Jawaban : ![screenshot](img9/Percobaan3/percobaan3.png)
 
 ## Kesimpulan
 
