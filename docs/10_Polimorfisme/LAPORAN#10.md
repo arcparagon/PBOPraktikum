@@ -104,19 +104,19 @@ Tester4 ditambahkan perintah ow.pay(iEmp);
 ## Tugas
 ![screenshot](../../docs/10_Polimorfisme/img10/zombie.png)
 
-**Untuk Kode Barrier nya** : [Barrier.java](../../src/10_Polimorfisme/TugasJobsheet10/Barrier1841720149Alief.java)
+**Untuk Kode Barrier nya** : [Barrier.java](../../src/10_Polimorfisme/job10/Barrier1841720149Alief.java)
 
-**Untuk Kode Destroyable nya** : [Destroyable.java](../../src/10_Polimorfisme/TugasJobsheet10/Destroyable1841720149Alief.java)
+**Untuk Kode Destroyable nya** : [Destroyable.java](../../src/10_Polimorfisme/job10/Destroyable1841720149Alief.java)
 
-**Untuk Kode Jumping zombie nya** : [JumpingZombie.java](../../src/10_Polimorfisme/TugasJobsheet10/JumpingZombie1841720149Alief.java)
+**Untuk Kode Jumping zombie nya** : [JumpingZombie.java](../../src/10_Polimorfisme/job10/JumpingZombie1841720149Alief.java)
 
-**Untuk Kode Plant nya** : [Plant.java](../../src/10_Polimorfisme/TugasJobsheet10/Plantz1841720149Alief.java)
+**Untuk Kode Plant nya** : [Plant.java](../../src/10_Polimorfisme/job10/Plantz1841720149Alief.java)
 
-**Untuk Kode Walking zombie nya** : [Walkingzombie.java](../../src/10_Polimorfisme/TugasJobsheet10/WalkingZombie1841720149Alief.java)
+**Untuk Kode Walking zombie nya** : [Walkingzombie.java](../../src/10_Polimorfisme/job10/WalkingZombie1841720149Alief.java)
 
-**Untuk Kode Zombie nya** : [Zombie.java](../../src/10_Polimorfisme/TugasJobsheet10/Zombie1841720149Alief.java)
+**Untuk Kode Zombie nya** : [Zombie.java](../../src/10_Polimorfisme/job10/Zombie1841720149Alief.java)
 
-**Untuk Kode Main Tester nya** : [Testermain.java](../../src/10_Polimorfisme/TugasJobsheet10/Tester1841720149Alief.java)
+**Untuk Kode Main Tester nya** : [Testermain.java](../../src/10_Polimorfisme/job10/Tester1841720149Alief.java)
 
 ## Kesimpulan
 >Polimorfisme merupakan suatu konsep yang menyatakan sesuatu yang sama dapat memiliki berbagai bentuk dan perilaku berbeda.
