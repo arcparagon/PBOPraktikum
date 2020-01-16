@@ -35,7 +35,7 @@ Menyimpan objek menggunakan collection dan map yang didalamnya terdapat interfac
     
 3.	Apakah fungsi potongan program dibawah ini pada percobaan 1!
 
-    ![screenshot](img12/percobaan1soal1.png)
+    ![screenshot](img12/percobaan1soal1.PNG)
     
     Jawaban :
 
@@ -49,7 +49,7 @@ Menyimpan objek menggunakan collection dan map yang didalamnya terdapat interfac
 
 5.	Jelaskan fungsi potongan program dibawah ini pada percobaan 1!
 
-    ![screenshot](img12/percobaan1soal2.png)
+    ![screenshot](img12/percobaan1soal2.PNG)
 
     Jawaban :
 
@@ -58,7 +58,7 @@ Menyimpan objek menggunakan collection dan map yang didalamnya terdapat interfac
 ### Praktikum Percobaan 2
 1.	Apakah fungsi potongan program dibawah ini!
 
-    ![screenshot](img12/percobaan2soal1.png)
+    ![screenshot](img12/percobaan2soal1.PNG)
 
     Jawaban :
 
@@ -66,11 +66,11 @@ Menyimpan objek menggunakan collection dan map yang didalamnya terdapat interfac
 
 2.	Ganti potongan program pada soal no 1 menjadi sebagai 
     berikut!
-    ![screenshot](img12/percobaan2soal2.png)
+    ![screenshot](img12/percobaan2soal2.PNG)
     Kemudian jalankan program tersebut!
 
     Jawaban :
-    ![screenshot](img12/percobaan2jawab2.png)
+    ![screenshot](img12/percobaan2jawab2.PNG)
 
 
 3.	Jelaskan perbedaan menampilkan data pada ArrayList menggunakan potongan program pada soal no 1 dan no 2!
@@ -102,13 +102,13 @@ Menyimpan objek menggunakan collection dan map yang didalamnya terdapat interfac
     Untuk menghapus semua data yang ada di Map.
 
 5.	Tambahkan kode program yang di blok pada program yang sudah anda buat!
-![screenshot](img12/percobaan3soal1.png)
+![screenshot](img12/percobaan3soal1.PN)
 
 6.	Jalankan program dan amati apa yang terjadi!
 
     Jawaban :
-    ![screenshot](img12/percobaan3jawab6p1.png)
-    ![screenshot](img12/percobaan3jawab6p2.png)
+    ![screenshot](img12/percobaan3jawab6p1.PNG)
+    ![screenshot](img12/percobaan3jawab6p2.PNG)
 
 7.	Apakah perbedaan program sebelumnya dan setelah ditambahkan kode program pada soal no 5 diatas? Jelaskan!
 
@@ -138,7 +138,7 @@ taruh pada object dan getString satu” setealh itu di taruh ke dalam model tabe
 10.Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel. 2.
 
 Jawaban :
-![screenshot](img12/percobaan5jawab10.png)
+![screenshot](img12/percobaan5jawab10.PN)
 
 ## Kesimpulan
 Wadah yang menampung value pada kontainer tunggal. Framework java collection menyediakan dengan cara extensible (secara kamus internasional : dapat dibuat panjang atau luas) dan dapat disatukan untuk menangani collections. Pada Groovy, collection dibuat lebih mudah untuk digunakan dan difokuskan menjadi 3 jenis.
