@@ -138,7 +138,7 @@ taruh pada object dan getString satu” setealh itu di taruh ke dalam model tabe
 10.Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel. 2.
 
 Jawaban :
-![screenshot](img12/percobaan5jawab10.PN)
+![screenshot](img12/percobaan5jawab10.PNG)
 
 ## Kesimpulan
 Wadah yang menampung value pada kontainer tunggal. Framework java collection menyediakan dengan cara extensible (secara kamus internasional : dapat dibuat panjang atau luas) dan dapat disatukan untuk menangani collections. Pada Groovy, collection dibuat lebih mudah untuk digunakan dan difokuskan menjadi 3 jenis.
